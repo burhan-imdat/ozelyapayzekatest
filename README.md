@@ -1,1 +1,3 @@
 # ozelyapayzekatest
+
+test açıklama
